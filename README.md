@@ -2,6 +2,7 @@
 - 👀 I’m interested in Gaming, Edge Device Software and TinyMLs
 - 🌱 I’m currently a CS student 
 - 🏗️ I like to build Andrino and RasberryPI Devices
+- 🎢 Co-Founder of Mashall & McAdam Dynamics
 - 👨‍👩‍👧‍👦 Proud Papa of two 
 
 <!---
